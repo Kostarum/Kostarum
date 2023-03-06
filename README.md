@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Konstantin Rumyantsev.
 - 👀 I’m interested in QA Engineering.
-- 🌱 I’m currently learning in SkillFactory QAP-95, start at 9 June 2022. 
+- 🌱 In February 2023, I completed advanced training courses SkillFactory QAP-95,that started at June 2022. 
 - 💞️ I’m looking to collaborate on testing programs using automatization by Phython.
 - 📫 How to reach me Kostarum@MAIL.RU
 
